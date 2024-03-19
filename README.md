@@ -1,10 +1,10 @@
 # MyfirstPublicRepo
 Here i create my first repo :D
 
-#Project Name
+### Project Name
 [Brief description of your project in a single sentence]
 
-#Table of Contents#
+### Table of Contents
 
 Installation: #installation
 Usage: #usage
@@ -14,19 +14,19 @@ Installation
 
 [Instructions on how to install and set up your project]
 
-#Usage
+### Usage
 
 [Instructions on how to use your project, including any examples]
 
-#Contributing
+### Contributing
 
 [Guidelines for contributing to your project, including how to submit pull requests]
 
-#License
+### License
 
 [Specify the license under which your project is distributed]
 
-#Additional Sections
+### Additional Sections
 
 You can also include additional sections in your README file, such as:
 
