@@ -1,36 +1,17 @@
-# MyfirstPublicRepo
-Here i create my first repo :D
+### My First Project
+In this repository i hold the artifacts of my first python-sql project
 
 ### Project Name
-[Brief description of your project in a single sentence]
+An Analysis of Online Job Postings
 
-### Table of Contents
+### Project Objective
+At a given point of time, identify the most in-demand skills requested by employers for Data Engineers in Singapore, based on an analysis of job postings found on a job portal site FoundIt.sg.
 
-Installation: #installation
-Usage: #usage
-Contributing: #contributing
-License: #license
-Installation
+### Python Packages Used
+Selenium  
+Pandas  
+NLTK - Natural Language Toolkit  
+Sqlalchemy  
+Matplotlib  
 
-[Instructions on how to install and set up your project]
 
-### Usage
-
-[Instructions on how to use your project, including any examples]
-
-### Contributing
-
-[Guidelines for contributing to your project, including how to submit pull requests]
-
-### License
-
-[Specify the license under which your project is distributed]
-
-### Additional Sections
-
-You can also include additional sections in your README file, such as:
-
-Features: A list of the key features of your project.
-Testing: Instructions on how to run the tests for your project.
-Authors: A list of the project's contributors.
-Credits: Acknowledge any third-party libraries or tools used in your project.
